@@ -1,4 +1,3 @@
-import { createUserWithEmailAndPassword } from "firebase/compat/auth";
 import React, { useContext, useState, useEffect } from "react";
 import { auth } from "../firebase";
 

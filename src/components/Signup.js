@@ -55,7 +55,7 @@ const Signup = () => {
                 required
               ></Form.Control>
             </Form.Group>
-            <Button className="w-100" type="submit" disabled={loading}>
+            <Button className="w-100 mt-3" type="submit" disabled={loading}>
               Sign up
             </Button>
           </Form>
